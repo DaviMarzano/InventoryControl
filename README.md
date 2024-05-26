@@ -1,3 +1,3 @@
 Inventory control project 
 
-Project to develop software that simulates stock.
+🧠 - In this project I developed a system that simulates a stock with some resources.
